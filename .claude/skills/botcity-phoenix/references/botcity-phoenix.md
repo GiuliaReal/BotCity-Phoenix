@@ -1,6 +1,6 @@
 # Equivalência de ações UiPath → Python
 
-Tabela de referência consultada durante a Etapa 3 da skill `uipath-to-botcity`.
+Tabela de referência consultada durante a Etapa 3 da skill `botcity-phoenix`.
 Mantenha esse arquivo aberto enquanto faz a transcrição.
 
 ## 1. Automação de UI Web (UiPath.UIAutomation / UiPath.Web)
