@@ -1,5 +1,5 @@
 ---
-name: uipath-to-botcity
+name: botcity-phoenix
 description: Migra automações UiPath (.xaml) para projetos Python usando o framework BotCity (BeAPro) e o orquestrador BotCity Maestro. Use sempre que o usuário pedir para converter, transcrever, migrar ou portar uma automação UiPath para Python/BotCity, mencionar um arquivo .xaml, falar em "sair do UiPath", "trocar para BotCity", ou pedir para gerar um projeto BotCity a partir de um workflow existente. Cobre o clone do template BeAPro, leitura/resumo do .xaml, transcrição passo a passo com a tabela de equivalências, organização em pastas por responsabilidade e geração do requirements.txt.
 ---
 
